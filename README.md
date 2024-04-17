@@ -1,12 +1,9 @@
-# Algorithmic Model Checking : Petri Net Symbolic Model Checker
+# Algorithmic Model Checking: Symbolic Model Checker for Petri-Nets
 
 > **!! Make sure you do NOT create a public fork of this repository with your solution !!**
 
-Instead, you can import this repository as a private repository as follows:
-1. Go to [https://github.com/new/import](https://github.com/new/import) (log in with your personal/student account)
-2. Click "Private" and select `https://github.com/jacopol/amc-petri-nets` for import
-3. Before submitting, add me `jacopol` to your private project
-under _settings/collaborators_.
+Instead, you can clone this repository and submit a zip-file with your solution.
+Alternatively, you can push it to a private repository of your own, and invite me when you submit.
 
 ## Dependencies
 
