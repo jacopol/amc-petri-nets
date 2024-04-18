@@ -5,9 +5,9 @@
     <page id="page">
 
       <!-- places -->
-      <place id="p0"><initialMarking><text>1</text></initialMarking><name><text>p_1</text></name></place>
-      <place id="p1"><name><text>p_1</text></name></place>
-      <place id="p2"><name><text>p_2</text></name></place>
+      <place id="p0"><name><text>p_0</text></name></place>
+      <place id="p1"><initialMarking><text>1</text></initialMarking><name><text>p_1</text></name></place>
+      <place id="p2"><initialMarking><text>1</text></initialMarking><name><text>p_2</text></name></place>
       <place id="p3"><name><text>p_3</text></name></place>
       <place id="p4"><name><text>p_4</text></name></place>
       <place id="p5"><name><text>p_5</text></name></place>

@@ -88,6 +88,18 @@ You can parse the input file with the parameter *i*. The parameter *M* is the am
 make run i=pnml/cycle_4.pnml M=1024
 ```
 
+## Expected Results
+
+After implementing *src/closure.cpp*, these are the expected results for the small test examples in *pnml/*:
+
+| Model               | Reachable States          |
+|---------------------|---------------------------|
+| cycle_4.pnml        | 4     |
+| example.pnml        | 2     |
+| self.pnml           | 4     |
+| split.pnml          | 3     |
+
+
 ## Getting Started with C++ development
 
 Before getting started on the assignment below, you should at least
