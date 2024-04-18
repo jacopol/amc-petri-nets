@@ -21,7 +21,7 @@ can be installed with your package manager with the respective command below.
 | Ubuntu 22+       | `apt install        cmake g++    ` |
 | Fedora 36+       | `dnf install        cmake gcc-c++` |
 | Arch Linux       | `pacman -S --needed cmake gcc    ` |
-| MacOS            | `homebrew install   cmake gcc    ` |
+| MacOS            | `brew install       cmake gcc    ` |
 
 ### Sylvan
 
@@ -40,7 +40,7 @@ libraries. These can be installed with your package manager with the respective 
 | Ubuntu 22+       | `apt install        libgmp-dev libhwloc-dev` |
 | Fedora 36+       | `dnf install        gmp-devel  hwloc-devel ` |
 | Arch Linux       | `pacman -S --needed gmp        hwloc       ` |
-| MacOS            | `homebrew install   gmp        hwloc       ` |
+| MacOS            | `brew install   gmp            hwloc       ` |
 
 ### PugiXML
 
@@ -62,7 +62,7 @@ Alternatively, dot-files can be converted to svg/pdf/... with *dot*, included as
 | Ubuntu 22+       | `apt install        graphviz` |
 | Fedora 36+       | `dnf install        graphviz` |
 | Arch Linux       | `pacman -S --needed graphviz` |
-| MacOS            | `homebrew install   graphviz` |
+| MacOS            | `brew install       graphviz` |
 
 ## Compiling and Running
 
